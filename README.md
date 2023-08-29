@@ -1,5 +1,6 @@
 # SBSPS-Challenge-10877-1692605928
-The Cognos Effect: Unleashing Actionable Insights on the Top 100 K-Dramas of 2023
+
+#The Cognos Effect: Unleashing Actionable Insights on the Top 100 K-Dramas of 2023.
 
 
 The "Viewer Demographics Dashboard with Integrated Genre Popularity Analysis" project introduces a pioneering approach to understanding the KDrama audience and content trends.
